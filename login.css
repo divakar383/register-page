@@ -1,0 +1,51 @@
+body{
+    background: url("/images/—Pngtree—beautiful\ technology\ website\ business\ poster_1107136.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}   
+
+.signup-container{
+    width: 500px;
+    background-color: rgb(16, 9, 9,0.5);
+    margin: 400px auto;
+    color: rgb(73, 203, 203);
+    padding: 10px 20px 30px;
+    border-radius: 18px;
+}
+
+h1{
+    color: #e29578;
+    text-align: center;
+    
+}
+
+.input input{
+    width: 100%;
+    font-size: 1.5em;
+    border-radius: 8px;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    margin: 5px 0px 15px;   
+}
+
+input:focus{
+    background-color: rgb(178, 156, 147);
+}
+.full {
+/* align-items: center; */
+    margin-left: 40%;
+    font-size: 30px;
+    border-radius: 8px;    
+    color: rgb(179, 78, 146);
+    padding: 0.3em .6em ;
+    font-size:20px;
+    background-color: #eef3d0;
+}
+.circle{
+    accent-color: rgb(215, 233, 24);
+    transform: scale();
+}
+
+
+
+
